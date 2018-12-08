@@ -1,0 +1,9 @@
+
+route.js
+- render selected file depend on uri path
+- export the function, so another js file can used
+
+srver.js
+- require route
+- create serve
+

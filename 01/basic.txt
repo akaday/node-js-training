@@ -1,0 +1,9 @@
+
+server-basic
+- this basicly for create http server
+
+server-html
+- this server render html file
+
+server-html
+- example if rendered file not found
